@@ -2,9 +2,11 @@
 // @name          Широкоэкранный Вконтакте
 // @namespace 1
 // @description	  Изменяет ширину страниц ВКонтакте. [FullHD]
-// @version      0.0.1
+// @version      0.0.2
 // @author        Stive_99
 // @homepage    https://github.com/BZHStudio/VkWideScreen
+// @downloadUrl   https://raw.githubusercontent.com/BZHStudio/VkWideScreen/master/script.js
+// @updateUrl     https://raw.githubusercontent.com/BZHStudio/VkWideScreen/master/script.js
 // @include       https://vk.com/*
 // @include       https://*.vk.com/*
 // @run-at        document-start
