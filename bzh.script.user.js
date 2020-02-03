@@ -8,7 +8,6 @@
 // @downloadUrl   https://raw.githubusercontent.com/BZHStudio/VkWideScreen/master/script.js
 // @updateUrl     https://raw.githubusercontent.com/BZHStudio/VkWideScreen/master/script.js
 // @include       https://vk.com/*
-// @include       https://*.vk.com/*
 // @run-at        document-start
 // ==/UserScript==
 
