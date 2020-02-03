@@ -5,8 +5,8 @@
 // @version      0.0.2
 // @author        Stive_99
 // @homepage    https://github.com/BZHStudio/VkWideScreen
-// @downloadUrl   https://raw.githubusercontent.com/BZHStudio/VkWideScreen/master/script.js
-// @updateUrl     https://raw.githubusercontent.com/BZHStudio/VkWideScreen/master/script.js
+// @downloadUrl   https://raw.githubusercontent.com/BZHStudio/VkWideScreen/master/bzh.script.user.js
+// @updateUrl     https://raw.githubusercontent.com/BZHStudio/VkWideScreen/master/bzh.script.user.js
 // @include       https://vk.com/*
 // @run-at        document-start
 // ==/UserScript==
